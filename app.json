@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Headlines",
-    "slug": "headlines-news",
+    "slug": "headlines",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
