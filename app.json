@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Headlines",
+    "slug": "headlines-news",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": { "package": "com.headlines.news", "usesCleartextTraffic": true },
+    "ios": { "supportsTablet": false, "bundleIdentifier": "com.headlines.news" }
+  }
+}
